@@ -1,0 +1,12 @@
+name: Corona-19Stats
+title: Corona-19Stats
+username:
+account: jamesvalles
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1918895
+bundleId: 2872849
+url: https://jamesvalles.shinyapps.io/Corona-19Stats/
+when: 1583957726.32857
+asMultiple: FALSE
+asStatic: FALSE

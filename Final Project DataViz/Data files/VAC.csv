@@ -1,0 +1,51 @@
+Day Number,Gender,Death Count,X,Severity,Contact
+1,M,6,79.456,CRITICAL,No Animal Contact
+2,F,8,79.234,SERIOUS,Animal Contact
+3,M,7,79.149,MILD,Animal Contact
+4,M,16,79.268,SERIOUS,Animal Contact
+5,F,9,79.089,SERIOUS,Animal Contact
+6,M,13,79.417,CRITICAL,No Animal Contact
+7,M,4,79.582,MILD,Animal Contact
+8,F,19,79.697,SERIOUS,No Animal Contact
+9,F,5,79.456,MILD,No Animal Contact
+10,M,6,79.78,MILD,No Animal Contact
+11,F,10,79.258,MILD,Animal Contact
+12,M,12,79.036,SERIOUS,No Animal Contact
+13,M,13,79.201,CRITICAL,No Animal Contact
+14,F,12,79.969,SERIOUS,No Animal Contact
+15,M,14,79.654,MILD,No Animal Contact
+16,M,15,79.546,CRITICAL,No Animal Contact
+17,F,16,79.125,CRITICAL,No Animal Contact
+18,F,17,79.204,CRITICAL,No Animal Contact
+19,M,18,79.801,SERIOUS,Animal Contact
+20,F,19,79.852,MILD,No Animal Contact
+21,F,20,79.321,SERIOUS,Animal Contact
+22,M,11,79.253,MILD,No Animal Contact
+23,M,8,79.856,SERIOUS,Animal Contact
+24,F,7,79.123,CRITICAL,Animal Contact
+25,M,16,79.314,SERIOUS,Animal Contact
+26,M,17,79.589,SERIOUS,No Animal Contact
+27,M,15,79.176,MILD,No Animal Contact
+28,F,11,79.231,CRITICAL,No Animal Contact
+29,F,16,79.861,SERIOUS,No Animal Contact
+30,M,13,79.789,MILD,No Animal Contact
+31,F,19,79.605,MILD,No Animal Contact
+32,M,16,79.987,SERIOUS,No Animal Contact
+33,F,11,79.548,CRITICAL,No Animal Contact
+34,F,7,79.368,MILD,No Animal Contact
+35,M,9,79.985,SERIOUS,No Animal Contact
+36,M,7,79627,MILD,No Animal Contact
+37,M,3,79.316,CRITICAL,No Animal Contact
+38,M,4,79.601,SERIOUS,No Animal Contact
+39,M,4,79.301,MILD,No Animal Contact
+40,M,8,79.901,SERIOUS,No Animal Contact
+41,M,16,79.879,CRITICAL,No Animal Contact
+42,M,6,79.741,SERIOUS,No Animal Contact
+43,M,23,79.147,CRITICAL,No Animal Contact
+44,M,18,79.589,MILD,No Animal Contact
+45,M,16,79.361,SERIOUS,No Animal Contact
+46,M,8,79.439,SERIOUS,No Animal Contact
+47,M,20,79.567,MILD,No Animal Contact
+48,M,17,79.841,CRITICAL,No Animal Contact
+49,M,18,79.501,SERIOUS,Animal Contact
+50,M,18,79.156,SERIOUS,Animal Contact

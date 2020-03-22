@@ -1,0 +1,35 @@
+Province,x,y,Abbr,x,y
+Heilongjiang,17,2,HLJ,9,1
+Inner Mongolia,10,4,IM,5,2
+Jilin,16,4,JL,8,2
+Liaoning,14,4,LN,7,2
+Ningxia,7,6,NX,3,2
+Xinjiang,4,4,XJ,0,2
+Beijing,11,6,BJ,6,3
+Gansu,6,4,GS,2,3
+Hebei,9,6,HEB,5,3
+Qinghai,6,8,QH,1,3
+Shaanxi,8,8,SHAX,3,3
+Shandong,15,6,SD,8,3
+Shanxi,10,8,SX,4,3
+Tianjin,13,6,TJ,7,3
+Henan,12,8,HEN,6,4
+Jiangsu,14,8,JS,7,4
+Shanghai,16,8,SH,8,4
+Anhui,13,10,AH,6,5
+Chongqing,9,10,CQ,4,5
+Hubei,11,10,HB,5,5
+Sichuan,7,10,SC,3,5
+Zhejiang,15,10,ZJ,7,5
+Fujian,14,12,FJ,7,6
+Guizhou,8,12,GZ,4,6
+Hunan,10,12,HUN,5,6
+Jiangxi,12,12,JX,6,6
+Yunnan,7,14,YN,3,6
+Guangdong,11,14,GD,6,7
+Guangxi,9,14,GX,5,7
+Tibet,5,10,XZ,2,7
+Taiwan,17,14,TW,8,7
+Hong Kong,12,16,HK,6,8
+Macau,10,16,MC,5,8
+Hainan,9,18,HAIN,5,9
